@@ -6,6 +6,7 @@
 }
 .contain{
     position : relative;
+    left: 300;
     width: 100;
 }
 .textbox{
@@ -13,8 +14,12 @@
     color : red;
     background : yellow;
     bottom : 20px;
-    left : 600px ;
+    left : 600px;
 }
 p{
+    text-align: center;
     font-size: 40px;
+}
+footer{
+    text-align:center;
 }
